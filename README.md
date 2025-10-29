@@ -74,6 +74,8 @@ npm install
 ```bash
 node server.js (Backend)
 The backend will start on: http://localhost:5000
+To check backend vehicles on:  http://localhost:5000/api/vehicles
+To check backend vehicles history on:  http://localhost:5000/api/history
 
 npm run dev (Frontend)
 Access the app at: http://localhost:5173 
