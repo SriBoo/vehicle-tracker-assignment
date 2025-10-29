@@ -67,20 +67,27 @@ cd vehicle-tracker-assignment
 
 ### **2. Install Dependencies**
 
-```bash
+i. Setup Backend
+cd backend
 npm install
-```
+
+
+ii. Setup Frontend
+
+Open a new terminal and run:
+cd frontend
+npm install
 
 ### **3. Run Development Server**
 
 ```bash
-npm run dev
+node server.js (Backend)
+The backend will start on: http://localhost:5000
+
+npm run dev (Frontend)
+Access the app at: http://localhost:5173 
 ```
 
-> Access the app at: `http://localhost:5173` (for Vite)
-> or `http://localhost:3000` (for Create React App)
-
----
 
 ## Features
 
