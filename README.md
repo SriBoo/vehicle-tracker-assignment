@@ -67,15 +67,6 @@ cd vehicle-tracker-assignment
 
 ### **2. Install Dependencies**
 
-i. Setup Backend
-cd backend
-npm install
-
-
-ii. Setup Frontend
-
-Open a new terminal and run:
-cd frontend
 npm install
 
 ### **3. Run Development Server**
