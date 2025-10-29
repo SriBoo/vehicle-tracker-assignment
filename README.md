@@ -7,8 +7,8 @@ This project fulfills the assignment requirements for *Frontend Developer Intern
 
 ## Live Demo
 
-> [Deployed on Netlify](https://your-app-link.netlify.app)
-> *(Replace this link after deployment)*
+> [Deployed on vercel](https://vehicle-tracker-assignment.vercel.app/)
+
 
 ---
 
@@ -143,7 +143,7 @@ speed = distance / time_delta (in hours)
 ## Screenshots (Optional)
 
 
-*Add screenshots of your deployed app here.*
+cd vehicle-tracker-app\screenshots
 
 ---
 
@@ -156,7 +156,3 @@ Email: [nunnasrivyshnavi02@gmail.com]
 
 ---
 
-##  License
-
-This project is for educational and evaluation purposes only.
-© 2025 Sri Vaishnavi. All rights reserved.
